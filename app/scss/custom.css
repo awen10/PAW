@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background: #000000 url('../images/backgound1.jpg') no-repeat fixed center;
+  background-size: cover;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  border: 2px solid #000000;
+  background: rgba(70, 71, 74, 0.7);
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+#example2 {
+  align-content: center;
+  width: 1350px;
+  margin-left: 85px;
+  margin-right: 100px;
+  background: rgba(70, 71, 74, 0.7);
+  padding: 0;
+  border: 2px solid #000000;
+}
+
+#comanda {
+  align-content: center;
+  width: 2000px;
+  height: auto;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 500px;
+  background: rgba(70, 71, 74, 0.7);
+  padding: 0;
+  border: 2px solid #000000;
+}
+#comanda1 {
+  align-content: center;
+  width: 300px;
+  margin-left: 420px;
+  margin-right: 100px;
+  padding: 0;
+}
+
+#nota{
+  margin-top:340px;
+}
+
+
